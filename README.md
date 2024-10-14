@@ -1,7 +1,7 @@
 # Trilha: Dev Back-End Java
 ## Formação 1 - A partir do zero: inciante em programação
 O foco dessa formação é desenvolver um jogo que advinha um número secreto usando JavaScript.
-O front-end foi baixado da Alura e os cursos dessa formação estão abaixo e estarão em branch separadas.
+O front-end foi baixado da Alura e os cursos dessa formação estão abaixo e em branchs separadas.
 
 ### Curso 1 - Lógica de programação: mergulhe em programação com JavaScript
 
