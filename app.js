@@ -1,9 +1,20 @@
-let titulo = document.querySelector('h1');
-titulo.innerHTML = 'Jogo do Número Secreto';
+let numeroMaximo = 10;
+let numeroSecreto = gerarNumeroAleatorio();
 
-let para = document.querySelector('p');
-para.innerHTML = 'Escolha um número de 1 a 10';
+function exibirTextoNaTela(tag, texto) {
+    let campo = document.querySelector(tag);
+    campo.innerHTML = texto;
+}
+
+exibirTextoNaTela('h1', 'Jogo do Número Secreto');
+exibirTextoNaTela('p', `Escolha um número de 1 a ${numeroMaximo}`);
 
 function verificarChute() {
-    console.log('Chute');
+    //precisa ter o .value para pegar o valor do input
+    let chute = parseInt(document.querySelector('input').value);
+    console.log(chute == numeroSecreto);
+}
+
+function gerarNumeroAleatorio() {
+    return parseInt(Math.random() * numeroMaximo) + 1;
 }

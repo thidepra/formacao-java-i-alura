@@ -1,33 +1,41 @@
 //Desafios no final das aulas do curso
 //Desafio 1
+//1
+function exibeOlaMundo() {
+    console.log('Olá, mundo!');
+}
+exibeOlaMundo();
+
 //2
-let titulo = document.querySelector('h1');
-titulo.innerHTML = 'Hora do Desafio';
+function exibeOlaNome(nome) {
+    console.log(`Olá, ${nome}!`);
+}
+exibeOlaNome('Bianca');
 
 //3
-//no index: <button onclick="exibeMensagemNoConsole()" class="button">Console</button>
-function exibeMensagemConsole() {
-    console.log('O botão foi clicado');
+function calculaDobro(numero) {
+    return numero * 2;
 }
+let resultado = calculaDobro(5);
+console.log(resultado);
 
 //4
-//no index: <button onclick="exibeAlerta()" class="button">Console</button>
-function exibeAlerta() {
-    alert('Eu amo JS');
+function calculaMedia(numero1, numero2, numero3) {
+    return (numero1 + numero2 + numero3) / 3;
 }
+let media = calculaMedia(5, 7, 10);
+console.log(media);
 
 //5
-//no index: <button onclick="perguntaCidade()" class="button">Console</button>
-function perguntaCidade() {
-    let nomeCidade = prompt('Digite o nome de uma cidade do Brasil que você já esteve:');
-    alert(`Estive em ${nomeCidade} e lembrei de você.`);
+function verificaNumeroMaior(numero1, numero2) {
+    return numero1 > numero2 ? numero1 : numero2;
 }
+let numeroMaior = verificaNumeroMaior(5, 7);
+console.log(numeroMaior);
 
 //6
-//no index: <button onclick="somaValores()" class="button">Console</button>
-function somaValores() {
-    let valor1 = prompt('Digite o primeiro número:');
-    let valor2 = prompt('Digite o segundo número:');
-    let resultado = valor1 + valor2;
-    alert(`A soma de ${valor1} e ${valor2} é igual a ${resultado}`);
+function calculaQuadrado(numero) {
+    return numero * numero;
 }
+let resultadoQuadrado = calculaQuadrado(3);
+console.log(resultadoQuadrado);
