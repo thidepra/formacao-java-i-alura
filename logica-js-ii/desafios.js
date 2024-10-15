@@ -162,3 +162,24 @@ function calcularTabuada(multiplicador) {
 }
 
 calcularTabuada(multiplicador);
+
+//Desafio 4
+//1
+let listaGenerica = [];
+
+//2
+let linguagensDeProgramacao = ['JavaScript', 'C', 'C++', 'Kotlin', 'Python', 'C', 'C++'];
+
+//3 
+linguagensDeProgramacao.push('Java', 'Ruby', 'GoLang');
+console.log(linguagensDeProgramacao);
+
+//4
+let listaDeNomes = ['Bianca', 'Rodrigo', 'Anita'];
+console.log(listaDeNomes[0]);
+
+//4
+console.log(listaDeNomes[1]);
+
+//5
+console.log(listaDeNomes[2]);
