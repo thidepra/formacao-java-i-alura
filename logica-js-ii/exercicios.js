@@ -1,3 +1,4 @@
+//Aula 3
 //6 - Calculadora de Média e Situação do Aluno
 let nota1 = 7;
 let nota2 = 6;
