@@ -1,19 +1,15 @@
-# Trilha: Dev Back-End Java
-## Formação 1 - A partir do zero: inciante em programação
-O front-end foi baixado da Alura e os cursos dessa formação estão abaixo.
+<h1> Formação 1 - A partir do zero: inciante em programação </h1>
 
-### Curso 1 - Lógica de programação: mergulhe em programação com JavaScript
+ ### Jogo do número secreto 
 
-https://cursos.alura.com.br/course/logica-programacao-mergulhe-programacao-javascript
+<p>Este projeto foi desenvolvido como parte da <a href="https://cursos.alura.com.br/carreira-dev-back-end-java-escola-programacao-1711658193424-p748310/">Carreira: Dev Back-End Java</a>. O front-end (HTML e CSS) foi fornecido pela equipe da Alura, e minha contribuição consistiu em seguir a implementação proposta nos cursos para praticar a lógica de programação em JavaScript.</p>
 
-### Curso 2 - Lógica de programação: explore funções e listas
+<p>Abaixo estão os cursos realizados durante essa formação:</p> 
 
-https://cursos.alura.com.br/course/logica-programacao-funcoes-listas
+<li> <a href="https://cursos.alura.com.br/course/logica-programacao-mergulhe-programacao-javascript"> Curso 1 - Lógica de programação: mergulhe em programação com JavaScript </a> </li>
 
-### Curso 3 - Lógica de programação: praticando com desafios
+<li> <a href="https://cursos.alura.com.br/course/logica-programacao-funcoes-listas"> Curso 2 - Lógica de programação: explore funções e listas </a> </li>
 
-https://cursos.alura.com.br/course/logica-programacao-praticando-desafios
+<li> <a href="https://cursos.alura.com.br/course/git-github-compartilhando-colaborando-projetos"> Curso 3 - Git e GitHub: compartilhando e colaborando em projetos </a> </li>
 
-### Curso 4 - Git e GitHub: compartilhando e colaborando em projetos
-
-https://cursos.alura.com.br/course/git-github-compartilhando-colaborando-projetos
+<li> <a href="https://cursos.alura.com.br/course/logica-programacao-praticando-desafios"> Curso 4 - Lógica de programação: praticando com desafios </a> </li>
