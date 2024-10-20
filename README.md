@@ -1,7 +1,10 @@
-<h1 align="center"> Formação 1 - A partir do zero: inciante em programação </h1>
+<h1 align="center"> Formação - A partir do zero: inciante em programação </h1>
 
 
 <h1 align="center">Jogo do número secreto</h1>
+<p align="center">
+    ![Static Badge](https://img.shields.io/badge/STATUS-EM%20DESENVOLVIMENTO-green?style=flat)
+</p>
 
 ## Sobre
 <p>O projeto é um jogo no qual o usuário deve adivinhar um número secreto. A implementação foi realizada como parte da <a href="https://cursos.alura.com.br/carreira-dev-back-end-java-escola-programacao-1711658193424-p748310/">Carreira: Dev Back-End Java</a>. Durante essa formação inicial, o foco foi na lógica de programação com JavaScript, seguindo os exemplos e instruções fornecidos nos cursos. O front-end (HTML e CSS) foi fornecido pela equipe da Alura. A seguir estão os cursos realizados durante essa formação:</p> 
@@ -31,9 +34,11 @@
 
 ## Acesso ao projeto
 O projeto foi hospedado na plataforma em nuvem <a href="https://vercel.com/">Vercel</a>.
-Para acessar o Jogo do Número secreto basta clicar na imagem abaixo.
+Para acessar o Jogo do Número Secreto basta clicar na imagem abaixo.
+<p align="center">
 <a href="https://jogo-numero-secreto-depra-one.vercel.app/">
-<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/93441081/378227601-765a6a96-f8ce-413a-b39c-6ebab180b043.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20241020%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241020T215217Z&X-Amz-Expires=300&X-Amz-Signature=eeea613d48c1b0e918ff096e480078aff49c98c1144ecb13512befdad343f1ab&X-Amz-SignedHeaders=host" align="center" height="500" width="700"></img></a>
+<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/93441081/378227601-765a6a96-f8ce-413a-b39c-6ebab180b043.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20241020%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241020T215217Z&X-Amz-Expires=300&X-Amz-Signature=eeea613d48c1b0e918ff096e480078aff49c98c1144ecb13512befdad343f1ab&X-Amz-SignedHeaders=host" height="500" width="700"></img></a>
+</p>
 
 
 
