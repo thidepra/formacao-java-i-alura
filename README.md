@@ -61,7 +61,7 @@ Para acessar o Jogo do Número Secreto basta clicar na imagem abaixo.
 No último curso da formação, <a href="https://cursos.alura.com.br/course/logica-programacao-praticando-desafios">Lógica de programação: praticando com desafios</a>, foram desenvolvidos diversos projetos com o objetivo de consolidar os conhecimentos em lógica de programação e resolução de problemas. Assim como no Jogo do Número Secreto, a parte visual (front-end) dos projetos foi desenvolvido pela equipe da Alura, enquanto a implementação da lógica em JavaScript foi realizada durante o curso.
 
 A seguir, estão os demais projetos desenvolvidos:
+</p>
 <li>
   <a href="https://github.com/thidepra/sorteador-numeros-js-iii-alura">Sorteador de Números</a>
 </li>
-</p>
