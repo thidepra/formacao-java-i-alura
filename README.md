@@ -8,7 +8,7 @@
 
 ## Sobre
 <p>
-O projeto é um jogo no qual o usuário deve adivinhar um número secreto. A implementação foi realizada como parte da <a href="https://cursos.alura.com.br/carreira-dev-back-end-java-escola-programacao-1711658193424-p748310/">Carreira: Dev Back-End Java</a>. Durante essa formação inicial, o foco foi na lógica de programação com JavaScript, seguindo os exemplos e instruções fornecidos nos cursos. O front-end (HTML e CSS) foi fornecido pela equipe da Alura. A seguir estão os cursos realizados durante essa formação:
+O projeto é um jogo no qual o usuário deve adivinhar um número secreto. A implementação foi realizada como parte da <a href="https://cursos.alura.com.br/carreira-dev-back-end-java-escola-programacao-1711658193424-p748310/">Carreira: Dev Back-End Java</a>. Durante essa formação inicial, o foco foi na lógica de programação com JavaScript, seguindo os exemplos e instruções fornecidos nos cursos. O front-end (HTML e CSS) foi fornecido pela equipe da Alura. Abaixo estão os cursos realizados durante essa formação:
 </p> 
 <li>
   <a href="https://cursos.alura.com.br/course/logica-programacao-mergulhe-programacao-javascript"> Curso 1 - Lógica de programação: mergulhe em programação com JavaScript </a> 
@@ -55,3 +55,16 @@ Para acessar o Jogo do Número Secreto basta clicar na imagem abaixo.
   <img height="500" width="700" src="https://i.postimg.cc/pXYX69jL/image.png">
   </a>
 </div>
+
+## Outro projetos da formação
+<p>
+No último curso da formação, <a href="https://cursos.alura.com.br/course/logica-programacao-praticando-desafios">Lógica de programação: praticando com desafios</a>, foram desenvolvidos diversos projetos com o objetivo de consolidar os conhecimentos em lógica de programação e resolução de problemas. Assim como no Jogo do Número Secreto, a parte visual (front-end) dos projetos foi desenvolvido pela equipe da Alura, enquanto a implementação da lógica em JavaScript foi realizada durante o curso.
+
+A seguir, estão os demais projetos desenvolvidos:
+<li>
+  <a href="https://cursos.alura.com.br/course/logica-programacao-mergulhe-programacao-javascript"> Curso 1 - Lógica de programação: mergulhe em programação com JavaScript </a> 
+</li>
+<li>
+  <a href="https://github.com/thidepra/sorteador-numeros-js-iii-alura">Sorteador de Números</a>
+</li>
+</p>
