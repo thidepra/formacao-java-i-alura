@@ -3,7 +3,7 @@
 
 <h1 align="center">Jogo do Número Secreto</h1>
 <div>
-  <img src="https://img.shields.io/badge/STATUS-EM%20DESENVOLVIMENTO-green?style=flat">
+  <img src="https://img.shields.io/badge/STATUS-%20CONCLUIDO-green?style=flat">
 </div>
 
 ## Sobre
@@ -56,15 +56,12 @@ Para acessar o Jogo do Número Secreto basta clicar na imagem abaixo.
   </a>
 </div>
 
-## Outro projetos da formação
+## Outros projetos da formação
 <p>
 No último curso da formação, <a href="https://cursos.alura.com.br/course/logica-programacao-praticando-desafios">Lógica de programação: praticando com desafios</a>, foram desenvolvidos diversos projetos com o objetivo de consolidar os conhecimentos em lógica de programação e resolução de problemas. Assim como no Jogo do Número Secreto, a parte visual (front-end) dos projetos foi desenvolvido pela equipe da Alura, enquanto a implementação da lógica em JavaScript foi realizada durante o curso.
 
 A seguir, estão os demais projetos desenvolvidos:
-<li>
-  <a href="https://cursos.alura.com.br/course/logica-programacao-mergulhe-programacao-javascript"> Curso 1 - Lógica de programação: mergulhe em programação com JavaScript </a> 
-</li>
+</p>
 <li>
   <a href="https://github.com/thidepra/sorteador-numeros-js-iii-alura">Sorteador de Números</a>
 </li>
-</p>
