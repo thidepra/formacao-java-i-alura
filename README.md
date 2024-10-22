@@ -29,9 +29,11 @@ O projeto é um jogo no qual o usuário deve adivinhar um número secreto. A imp
 <div>
   <details>
     <summary>Certificados de conclusão</summary>       
-    <img height="200" width="300" src="https://i.postimg.cc/CL8bBKkC/curso1.png)](https://postimg.cc/PPtC0T6N">
+     <img height="200" width="300" src="https://i.postimg.cc/CL8bBKkC/curso1.png"> 
+    <img height="200" width="300" src="https://i.postimg.cc/L8CLYQNf/curso2.png">
     <br>
-    <img height="200" width="300" src="https://postimg.cc/Xr5ptLM7">
+     <img height="200" width="300" src="https://i.postimg.cc/D01sD2Q3/image.png">
+    <img height="200" width="300" src="">
   </details>
 </div>
 
@@ -50,8 +52,6 @@ Para acessar o Jogo do Número Secreto basta clicar na imagem abaixo.
 
 <div align="center">
   <a href="https://jogo-numero-secreto-depra-one.vercel.app/">
-  <img height="500" width="700" src="https://github-production-user-asset-6210df.s3.amazonaws.com/93441081/378227601-765a6a96-f8ce-413a-b39c-6ebab180b043.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20241020%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241020T215217Z&X-Amz-Expires=300&X-Amz-Signature=eeea613d48c1b0e918ff096e480078aff49c98c1144ecb13512befdad343f1ab&X-Amz-SignedHeaders=host">
+  <img height="500" width="700" src="https://i.postimg.cc/pXYX69jL/image.png">
   </a>
 </div>
-
-[![Banner-para-linkedin-com-c-rculos-minimalista-cinza.gif](https://i.postimg.cc/mgGbL4Lr/Banner-para-linkedin-com-c-rculos-minimalista-cinza.gif)](https://postimg.cc/4mBCPrhC)
