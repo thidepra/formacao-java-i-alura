@@ -63,5 +63,5 @@ No último curso da formação, <a href="https://cursos.alura.com.br/course/logi
 A seguir, estão os demais projetos desenvolvidos:
 </p>
 <li>
-  <a href="https://github.com/thidepra/sorteador-numeros-js-iii-alura">Sorteador de Números</a>
+  <a href="https://github.com/thidepra/sorteador-numeros-js-iv-alura">Sorteador de Números</a>
 </li>
