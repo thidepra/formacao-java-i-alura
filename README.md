@@ -51,7 +51,7 @@ Para acessar o Jogo do Número Secreto basta clicar na imagem abaixo.
 </p>
 
 <div align="center">
-  <a href="https://jogo-numero-secreto-depra-one.vercel.app/">
+  <a href="https://jogo-numero-secreto-depra.vercel.app/">
   <img height="500" width="700" src="https://i.postimg.cc/pXYX69jL/image.png">
   </a>
 </div>
